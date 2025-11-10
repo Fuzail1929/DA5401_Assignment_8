@@ -5,7 +5,7 @@
 
 # 🚴‍♂️ Bike Sharing Demand Prediction using Ensemble Learning
 
-**Course:** DA5401 – Machine Learning  
+**Course:** DA5401 – Data Analytics Lab
 **Assignment:** A8 – Ensemble Learning for Complex Regression  
 **Dataset:** Bike Sharing Demand (Hourly)
 
